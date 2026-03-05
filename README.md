@@ -1,0 +1,1 @@
+# Monitor_Anal-tico_do_Mercado_de_Criptomoedas
