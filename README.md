@@ -4,7 +4,7 @@ Este é um projeto de Análise e Engenharia de Dados de ponta a ponta (End-to-En
 
 O design do dashboard foi focado no minimalismo, garantindo uma leitura rápida e clara dos principais indicadores (KPIs) do mercado.
 
-div align="center">
+<div align="center">
   <img src="dashboard.png" alt="Demonstração do Dashboard da Torre de Controle" width="100%">
 </div>
 
